@@ -1,0 +1,13 @@
+[package]
+name = "screeps-regions"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.24.9"
+imageproc = "0.25.0"
+itertools = "0.13.0"
+screeps-game-api = "0.21.1"
+screeps-game-utils = "0.21.1"
+screeps-local-visuals = {path = "./screeps-local-visuals"}
+screeps-room-regions = {path = "./screeps-room-regions"}

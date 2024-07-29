@@ -1,0 +1,6 @@
+[submodule "screeps-room-regions"]
+	path = screeps-room-regions
+	url = https://github.com/jciskey/screeps-room-regions.git
+[submodule "screeps-local-visuals"]
+	path = screeps-local-visuals
+	url = https://github.com/jciskey/screeps-local-visuals.git
